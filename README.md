@@ -1,13 +1,13 @@
 # hello-world
 to learning purpose
 
-##Paul Maero
+## Paul Maero
 
-###Hero des temps nouveaux. 
+### Hero des temps nouveaux. 
 
-####Grand développeur en apprentissage
+#### Grand développeur en apprentissage
 
-#####Ou comment raconter de la merde. 
+##### Ou comment raconter de la merde. 
 
 ---
 
